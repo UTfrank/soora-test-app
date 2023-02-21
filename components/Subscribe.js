@@ -5,7 +5,6 @@ const Subscribe = () => {
     <View className="w-full py-2">
       <View className="flex flex-row justify-between border w-10/12 mx-auto mb-2 p-1 pl-3 rounded-full">
         <TextInput
-          placeholder="Restaurants and Cuisines"
           className="w-8/12"
           keyboardType="default"
         />
